@@ -1,2 +1,2 @@
 # TIL
-today / learned
+writing to make it mine
